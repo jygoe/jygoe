@@ -25,7 +25,7 @@
 * 🎓 Pre-U
   - Foundation in Physical Science, UTM (2022-2023)
 * 📚 University
-  - Bachelor of Computer Science (Data Engineering), UTM (from 2023)
+  - Bachelor of Computer Science (Data Engineering), UTM (studying)
 ### Skills
 
 
