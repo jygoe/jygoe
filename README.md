@@ -7,12 +7,11 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   , I'm Goe Jie Ying
 </h1>
-1/SECPH Student
----------------
+<b><i>>1/SECPH Student</i></b
 
 * 🌍  I'm based in Kluang, Johor
 * 📫  You can contact me at [goeying@graduate.utm.my](mailto:goeying@graduate.utm.my)
-* 💻  I'm learning I’m currently a freshman studying for Bachelor of Computer Science (Data Engineering)
+* 💻  I'm currently a freshman studying for Bachelor of Computer Science (Data Engineering)
 * 📖  I’m interested in reading and learning
 
 ### Skills
