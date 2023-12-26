@@ -1,6 +1,6 @@
 <div id="header" align="center">
-</div>![stitch](https://github.com/jygoe/jygoe/assets/148327232/17c87790-9082-4b61-8fd4-67c8f5d79db9)
-
+<img src="https://media.giphy.com/media/gSJ5Q7Uh8Fi4E/giphy.gif" width="200"/>
+</div>
 
 <h1>
   Hi, I'm Goe Jie Ying
