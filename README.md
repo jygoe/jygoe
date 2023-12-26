@@ -1,5 +1,5 @@
 <div id="header" align="center">
-<iframe src="https://giphy.com/embed/ZLWdBBzwAexuE" width="480" height="285" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/reaction-hi-stitch-ZLWdBBzwAexuE">via GIPHY</a></p>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </div>
 
 <h1>
