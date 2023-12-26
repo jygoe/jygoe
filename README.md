@@ -1,10 +1,9 @@
 <div id="header" align="center">
-<img src="https://media.giphy.com/media/gSJ5Q7Uh8Fi4E/giphy.gif" width="400"/>
+<img src="https://media.giphy.com/media/gSJ5Q7Uh8Fi4E/giphy.gif" width="300"/>
 </div>
 
 <h1 align="center">
   Hi, I'm Goe Jie Ying
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>- 👀 I’m interested in reading and learning
 - 🌱 I’m currently a freshman studying for Bachelor of Computer Science (Data Engineering)
 - 📫 You can reach me by goeying@graduate.utm.my
