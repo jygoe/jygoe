@@ -18,14 +18,14 @@
 
 ### Education
 * 🎓 Primary School
-* - SJK(C)Chong Eng (2011-2016)
+  - SJK(C)Chong Eng (2011-2016)
 * 🎓 Secondary School
-* - SMK Tinggi Kluang (2017-2019)
+  - SMK Tinggi Kluang (2017-2019)
   - SMK Jalan Mengkibol (2020-2021)
 * 🎓 Pre-U
-* - Foundation in Physical Science, UTM (2022-2023)
+  - Foundation in Physical Science, UTM (2022-2023)
 * 📚 University
-* - Bachelor of Computer Science (Data Engineering), UTM (from 2023)
+  - Bachelor of Computer Science (Data Engineering), UTM (from 2023)
 ### Skills
 
 
