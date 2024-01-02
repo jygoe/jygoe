@@ -56,6 +56,8 @@
 
 <a href="https://github.com/jygoe" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jygoe&langs_count=10&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=22272e&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
+![image](https://api.visitorbadge.io/api/VisitorHit?jygoe=estruyf&Y1S1=github-visitors-badge&countColor=%237B1E7A)
+
 <!---
 jygoe/jygoe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
