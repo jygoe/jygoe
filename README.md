@@ -13,7 +13,7 @@
 * 📫  You can contact me at [jygoe63@gmail.com](mailto:jygoe63@gmail.com) or [goeying@graduate.utm.my](mailto:goeying@graduate.utm.my)
 * 🖥️  See my portfolio at [MyPortfolio](https://github.com/jygoe/Y1S1.git)
 * 💻  I'm currently a freshman studying for Bachelor of Computer Science (Data Engineering)
-* 📖  I’m interested in reading and learning
+* 📖  I'm interested in reading and learning
 
 
 ### Education
