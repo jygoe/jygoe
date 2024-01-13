@@ -11,7 +11,7 @@
 
 * 🌍  I'm based in Kluang, Johor
 * 📫  You can contact me at [jygoe63@gmail.com](mailto:jygoe63@gmail.com) or [goeying@graduate.utm.my](mailto:goeying@graduate.utm.my)
-* 🖥️  See my portfolio at [MyPortfolio](https://github.com/jygoe/Y1S1.git)
+* 🖥️  See my portfolio at [GitHub](https://github.com/jygoe/Y1S1.git) and [GitHub.io](https://jygoe.github.io/)
 * 💻  I'm currently a freshman studying for Bachelor of Computer Science (Data Engineering)
 * 📖  I'm interested in reading and learning
 
