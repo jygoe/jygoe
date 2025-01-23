@@ -7,7 +7,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   , I'm Goe Jie Ying
 </h1>
-<b><i>>1/SECPH Student</i></b
+<b><i>>2/SECPH Student</i></b
 
 * 🌍  I'm based in Kluang, Johor
 * 📫  You can contact me at [jygoe63@gmail.com](mailto:jygoe63@gmail.com) or [goeying@graduate.utm.my](mailto:goeying@graduate.utm.my)
