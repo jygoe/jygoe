@@ -56,15 +56,15 @@
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=jygoe&label=VISITORS&labelColor=%23d9e3f0&countColor=%232ccce4&style=flat-square&labelStyle=upper)
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=TehRuQian&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api?username=jygoe&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=TehRuQian&theme=tokyonight" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=jygoe&theme=tokyonight" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TehRuQian&layout=compact&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jygoe&layout=compact&theme=tokyonight" />
 </p>
 
 <!---
