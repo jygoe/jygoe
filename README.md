@@ -97,20 +97,20 @@
 
 ## 🏆 Achievements & Certifications
 
+- ☁️ **Microsoft Certified: Azure Data Fundamentals**  
+  [![Badge](https://img.shields.io/badge/Azure-Data_Fundamentals-0078D4?style=for-the-badge&logo=microsoft-azure)](https://www.credly.com/badges/2d19bab6-5572-4800-97eb-cf6b5339d6d5/public_url)
+  
+- ☁️ **AWS Academy Graduate – Cloud Foundations**  
+  [![Badge](https://img.shields.io/badge/AWS-Cloud_Foundations-orange?style=for-the-badge&logo=amazon-aws)](https://www.credly.com/badges/933e2ca2-d694-4cef-b0b0-7ebb53a846d4/public_url)
+
+  - ☁️ **AWS Academy Graduate – Cloud Developing**  
+  [![Badge](https://img.shields.io/badge/AWS-Cloud_Development-orange?style=for-the-badge&logo=amazon-aws)](https://www.credly.com/badges/3e9b4fa0-3290-4864-89b2-0e70c0bbecde/public_url)
+  
 - ☁️ **AWS Academy Graduate – Cloud Data Pipeline Builder**  
   [![Badge](https://img.shields.io/badge/AWS-Data_Pipeline_Builder-orange?style=for-the-badge&logo=amazon-aws)](https://www.credly.com/badges/6f9c96a0-4620-454c-8077-cb154993cce1/public_url)
 
-- ☁️ **AWS Academy Graduate – Cloud Developing**  
-  [![Badge](https://img.shields.io/badge/AWS-Cloud_Development-orange?style=for-the-badge&logo=amazon-aws)](https://www.credly.com/badges/3e9b4fa0-3290-4864-89b2-0e70c0bbecde/public_url)
-
 - 📊 **Alteryx Designer Core Certification**  
   [![Badge](https://img.shields.io/badge/Alteryx-Core_Certified-blue?style=for-the-badge)](https://www.credly.com/badges/efe1de79-7a48-4629-8756-7849123cd336/public_url)
-
-- ☁️ **Microsoft Certified: Azure Data Fundamentals**  
-  [![Badge](https://img.shields.io/badge/Azure-Data_Fundamentals-0078D4?style=for-the-badge&logo=microsoft-azure)](https://www.credly.com/badges/2d19bab6-5572-4800-97eb-cf6b5339d6d5/public_url)
-
-- ☁️ **AWS Academy Graduate – Cloud Foundations**  
-  [![Badge](https://img.shields.io/badge/AWS-Cloud_Foundations-orange?style=for-the-badge&logo=amazon-aws)](https://www.credly.com/badges/933e2ca2-d694-4cef-b0b0-7ebb53a846d4/public_url)
 
 - 💼 **SAP S/4HANA – Financial Accounting Overview (Record of Achievement)**  
   [![Badge](https://img.shields.io/badge/SAP-Financial_Accounting-blue?style=for-the-badge&logo=sap)](https://www.credly.com)
