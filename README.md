@@ -103,7 +103,7 @@
 - ☁️ **AWS Academy Graduate – Cloud Foundations**  
   [![Badge](https://img.shields.io/badge/AWS-Cloud_Foundations-orange?style=for-the-badge&logo=amazon-aws)](https://www.credly.com/badges/933e2ca2-d694-4cef-b0b0-7ebb53a846d4/public_url)
 
-  - ☁️ **AWS Academy Graduate – Cloud Developing**  
+- ☁️ **AWS Academy Graduate – Cloud Developing**  
   [![Badge](https://img.shields.io/badge/AWS-Cloud_Development-orange?style=for-the-badge&logo=amazon-aws)](https://www.credly.com/badges/3e9b4fa0-3290-4864-89b2-0e70c0bbecde/public_url)
   
 - ☁️ **AWS Academy Graduate – Cloud Data Pipeline Builder**  
