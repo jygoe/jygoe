@@ -114,7 +114,22 @@
 
 - 💼 **SAP S/4HANA – Financial Accounting Overview (Record of Achievement)**  
   [![Badge](https://img.shields.io/badge/SAP-Financial_Accounting-blue?style=for-the-badge&logo=sap)](https://www.credly.com)
-  
+
+## 🏆 Projects & Competitions
+### 💻 Academic Projects
+
+| Project | Description |
+|----------|-------------|
+| 🚀 [KKK-System](https://github.com/TehRuQian/KKK-System) | Cooperative management system developed using PHP, MySQL, HTML, CSS, and Bootstrap for managing cooperative operations and member services. |
+| 🎓 [course_regi_system](https://github.com/jygoe/course_regi_system) | Course Registration System developed for System Development & Technology, featuring student, lecturer, and administrator modules. |
+
+### 🏅 Competitions & Hackathons
+
+| Competition | Description |
+|-------------|-------------|
+| 📊 [Datathon-2025](https://github.com/jygoe/Datathon-2025) | Data analytics and problem-solving competition involving data exploration, visualization, and insight generation. |
+| 💡 [utmxhackathon](https://github.com/jygoe/utmxhackathon) | Hackathon project developed under time constraints, focusing on innovative solutions and rapid software development. |
+
 ### Badges
 
 <b>My GitHub Stats</b>
